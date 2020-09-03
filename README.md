@@ -38,7 +38,6 @@ author_name, min_price, max_price и mean_price,
 Назовите полученный датасет book_info и сохраните его в формат pickle под названием "book_info.pkl". Затем загрузите из этого файла датафрейм и назовите его book_info2. Удостоверьтесь, что датафреймы book_info и book_info2 идентичны.
 
 
-
 # Lesson_4
 ## Визуализация данных в Matplotlib.
 ## Matplotlib
