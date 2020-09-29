@@ -1,7 +1,7 @@
 # Библиотеки Python для Data Science: Numpy, Pandas, Matplotlib, Scikit-learn
 Учебные задания на портале GeekBrains.
 
-# Lesson_6
+# Lesson_8
 ## Обучение без учителя в Scikit-learn.
 ## Scikit-learn
 ### Задание 1
